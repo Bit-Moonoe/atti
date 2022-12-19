@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* @layer base {
+    button[aria-current='page']{
+      @apply bg-pink-600
+    }
+  } */
+  /* 추가된 부분이라 있어야 하는지 알아보기 */
